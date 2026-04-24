@@ -41,6 +41,8 @@ Los ciudadanos pueden monitorear en tiempo real el uso de los fondos y el progre
 * Rust
 * Soroban (Smart Contracts sobre Stellar)
 * Web3
+ <img width="544" height="201" alt="image" src="https://github.com/user-attachments/assets/0aa0cbf2-3a8b-4157-8235-5d5632b2ec0b" />
+
 
 ---
 
@@ -100,6 +102,12 @@ cargo build
 ## Deploy contrato
 soroban contract deploy
 
+<img width="657" height="224" alt="image" src="https://github.com/user-attachments/assets/250a588b-406f-482a-bc5e-3fadf3d5a45c" />
+
+<img width="756" height="374" alt="image" src="https://github.com/user-attachments/assets/0566e8b3-c44e-4e9f-9b71-8eb60f3b8481" />
+
+
+
 
 ---
 
@@ -108,6 +116,8 @@ soroban contract deploy
 * Smart contracts en Rust (seguros y eficientes)
 * Transacciones inmutables en blockchain
 * Transparencia total del flujo de fondos
+  <img width="564" height="189" alt="image" src="https://github.com/user-attachments/assets/28cb8e35-5076-4f28-acbc-1056cccf53c2" />
+
 
 ---
 
